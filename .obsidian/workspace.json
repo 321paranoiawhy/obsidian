@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "632bd550eb580d02",
+    "type": "split",
+    "children": [
+      {
+        "id": "e35b598aac0f5dd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc27f60628a7c2a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d8e85547a992f98",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7f94d612753650f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7294f8b468e49701",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdcf933c1dce6a33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07891b531b3f5780",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f8d4a424bcee2159",
+    "type": "split",
+    "children": [
+      {
+        "id": "e187e1b444fe23bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a63f7dfbc4354308",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8035917cca5dcebb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3090efb9954433b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dbd274460c3aa544",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bfe9d93dfa11b37",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5,
+    "collapsed": true
+  },
+  "active": "fc27f60628a7c2a8",
+  "lastOpenFiles": [
+    "CSS/Scrollbar.md",
+    "CSS/Marquees.md",
+    "CSS/issue.md",
+    "Tools/Request API.md",
+    "Tools/NVM.md",
+    "Flutter/Debug/VS Code 调试.md",
+    "Flutter/Debug/ADB 调试.md",
+    "Flutter/Debug/夜神模拟器.md",
+    "Flutter/Packages/http.md",
+    "Flutter/Packages/intl.md"
+  ]
+}
